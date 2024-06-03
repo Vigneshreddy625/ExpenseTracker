@@ -10,7 +10,7 @@ A simple and intuitive expense tracker application built with React and styled u
 - Add all expenses.
 - Data persistence using local storage.
 
-# Demo[https://expensetracker-mocha.vercel.app/]
+## Demo[https://expensetracker-mocha.vercel.app/]
 
 ## Demo Img
 <img width="1078" alt="image" src="https://github.com/Vigneshreddy625/ExpenseTracker/assets/113472156/f26cee01-f801-4b3d-97cb-e336f34ec1f3">
